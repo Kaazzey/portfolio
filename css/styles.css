@@ -37,7 +37,7 @@ h2 {
     font-size: 1.2rem;
     display: block;
     font-family: 'Fraunces', serif;
-    color: #9dad7f;
+    color: #222222;
 }
 
 @media only screen and (min-width: 600px) {
@@ -67,7 +67,7 @@ nav ul li a {
     color: black;
     font-size: 1.2rem;
     font-family: 'Fraunces', serif;
-    color: #9dad7f;
+    color: #222222;
     transition: .1s;
 }
 
@@ -109,7 +109,7 @@ h1 {
     margin: 0 auto;
     padding: 4rem 1rem 5rem 1rem;
     font-family: 'Fraunces', serif;
-    color: #9dad7f;
+    color: #222222;
     text-align: center;
     font-size: 1.6rem;
     display: none;
@@ -190,7 +190,7 @@ section article img {
         right: 0;
         width: 100%;
         height: 99%;
-        background: #9dad7f;
+        background: #222222;
         color: #fff;
         visibility: hidden;
         opacity: 0;
